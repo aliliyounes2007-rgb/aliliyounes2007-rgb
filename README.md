@@ -1,4 +1,4 @@
-# 👨‍💻 Younes | Cybersecurity & Networking
+# 👨‍💻 Younes Alili | Cybersecurity & Networking
 
 <div align="center">
 
@@ -6,9 +6,7 @@
 
 <br>
 
-<a href="https://github.com/aliliyounes2007">
-  <img src="https://komarev.com/ghpvc/?username=aliliyounes2007&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=aliliyounes2007-rgb&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -16,20 +14,12 @@
 
 ## 🧑‍💻 About Me
 
-```text
-Name       : Younes Alili
-Education  : 2nd-year Computer Science Student
-Interests  : Cybersecurity, Networking & Linux
-Currently  : Learning and improving my technical skills
-Goal       : Build strong foundations in cybersecurity
-```
-
 - 🎓 I'm a second-year Computer Science student.
-- 🔐 I'm interested in **Cybersecurity** and learning how systems work.
-- 🌐 I'm exploring **Computer Networking** and network fundamentals.
-- 🐧 I enjoy working with **Linux**, especially Kali Linux.
-- 💻 I'm developing my programming skills and learning through practice.
-- 🚀 My goal is to keep learning, build projects, and improve every day.
+- 🔐 I'm interested in **Cybersecurity** and ethical hacking.
+- 🌐 I'm learning about **Computer Networking** and network security.
+- 🐧 I enjoy exploring **Linux** and Kali Linux.
+- 💻 I'm developing my programming and problem-solving skills.
+- 🚀 My goal is to build strong foundations in cybersecurity.
 
 ---
 
@@ -51,20 +41,20 @@ Goal       : Build strong foundations in cybersecurity
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### 🐧 Operating Systems & Cybersecurity
+### 🔐 Cybersecurity & Networking
 
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Cybersecurity"/>
   <img src="https://img.shields.io/badge/Networking-003B70?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
 </p>
 
 ### 🔧 Tools & Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub"/>
 </p>
 
 ---
@@ -73,29 +63,19 @@ Goal       : Build strong foundations in cybersecurity
 
 <div align="center">
 
-<a href="https://github.com/aliliyounes2007">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aliliyounes2007&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=E0E0E0&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/aliliyounes2007-rgb">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aliliyounes2007-rgb&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&icon_color=00FF88&text_color=E0E0E0&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
-<a href="https://github.com/aliliyounes2007">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliliyounes2007&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&text_color=E0E0E0" alt="Most used programming languages"/>
+<a href="https://github.com/aliliyounes2007-rgb">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliliyounes2007-rgb&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF88&text_color=E0E0E0" alt="Most used programming languages"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/aliliyounes2007">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliliyounes2007&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub contribution streak"/>
+<a href="https://github.com/aliliyounes2007-rgb">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliliyounes2007-rgb&theme=dark&hide_border=true&background=050505&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub contribution streak"/>
 </a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aliliyounes2007&bg_color=050505&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -111,22 +91,12 @@ Goal       : Build strong foundations in cybersecurity
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/aliliyounes2007/aliliyounes2007/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
-
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/aliliyounes2007">
-  <img src="https://img.shields.io/badge/GitHub-aliliyounes2007-181717?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub profile"/>
+<a href="https://github.com/aliliyounes2007-rgb">
+  <img src="https://img.shields.io/badge/GitHub-aliliyounes2007--rgb-181717?style=for-the-badge&logo=github&logoColor=00FF88" alt="GitHub profile"/>
 </a>
 
 </div>
